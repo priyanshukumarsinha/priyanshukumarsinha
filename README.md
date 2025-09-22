@@ -1,42 +1,26 @@
-### Hi there 👋
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVqb2VqYmhvZTliODNpbG81MTR6NnRoZmthY2ZmY25qZzdqY3RkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/102ygrIsUGwAQU/giphy.gif)
 
-# 💫 About Me: ![](https://komarev.com/ghpvc/?username=priyanshukumarsinha&label=Profile+views&style=for-the-badge&color=green)
+## Hi There!!
 
-- 🔭 I’m currently working on Full Stack Web Development.
-- 🌱 I’m currently learning JavaScript and ReactJS.
-- 👯 I’m looking to collaborate on Full Stack Web Developement projects.
-- 🤔 I’m looking for help with C Programming and DSA.
-- ⚡ Hobbies: Video Games.
+Hi, I’m Priyanshu Kumar Sinha, a full-stack developer from India, studying at Dayananda Sagar College of Engineering. I love digging into the fundamentals of computer science, currently building my own CPU with the nand2tetris tutorial and also building web apps that actually work.
 
+Currently I am *Software Engineer* at ***EdgeVerve Systems Ltd.***
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/priyanshu_kumar_sinha_/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshukumarsinha/)  [![X.com](https://img.shields.io/badge/X.com-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/priyanshu_pks) 
+When I’m not coding, I’m probably binge-watching shows, because debugging reality is harder than debugging code.
 
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR4dXNnbHZ4YnhxZnY4djV3dTdocDlkaTEydjR2ZTd4cnBxeHE1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif
+)
 
-### ⚒️ Tech Stack:
-
-
-# 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshukumarsinha&theme=neon-palenight&hide_border=true&card_width=705">
-     </td>
-   </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshukumarsinha&theme=2077">
-     </td>
-   </tr>
-</table><table>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshukumarsinha&theme=aura_dark"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshukumarsinha&theme=aura_dark"></td>
-  </tr>
-</table>
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyanshukumarsinha&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+## Projects, i am currently working on
+- [My Portfolio Website | 0xpks.site](https://0xpks.site)
+- Nand2Tetris CPU
+- [Vichaar | Blogging Platform](https://vichaar.0xpks.site)
 
 
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl2cjg2bjhxYm42dGwxcHJ5czRxZmJvZHJhc2t3NWtiZXM0YXkxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6szplK2CnuJW/giphy.gif)
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,nodejs,express,postgresql,mysql,mongodb,c,cpp,linux,ubuntu,bash,py,vscode,java,spring,prisma,latex,git,github,docker,figma,firebase,grafana,hibernate,md,maven,npm,postman,redux,regex,tailwind,vim,devto,cmake&perline=10)](https://skillicons.dev)
+
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://www.instagram.0xpks.site)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.0xpks.site) [![Website](https://img.shields.io/badge/Portfolio-8A2BE2)](http://www.0xpks.site) 
